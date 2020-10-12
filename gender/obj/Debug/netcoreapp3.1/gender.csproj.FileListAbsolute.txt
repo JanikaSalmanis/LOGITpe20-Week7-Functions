@@ -1,0 +1,12 @@
+C:\Users\opilane\source\repos\Week7Functions\gender\bin\Debug\netcoreapp3.1\gender.exe
+C:\Users\opilane\source\repos\Week7Functions\gender\bin\Debug\netcoreapp3.1\gender.deps.json
+C:\Users\opilane\source\repos\Week7Functions\gender\bin\Debug\netcoreapp3.1\gender.runtimeconfig.json
+C:\Users\opilane\source\repos\Week7Functions\gender\bin\Debug\netcoreapp3.1\gender.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\Week7Functions\gender\bin\Debug\netcoreapp3.1\gender.dll
+C:\Users\opilane\source\repos\Week7Functions\gender\bin\Debug\netcoreapp3.1\gender.pdb
+C:\Users\opilane\source\repos\Week7Functions\gender\obj\Debug\netcoreapp3.1\gender.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\Week7Functions\gender\obj\Debug\netcoreapp3.1\gender.AssemblyInfo.cs
+C:\Users\opilane\source\repos\Week7Functions\gender\obj\Debug\netcoreapp3.1\gender.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\Week7Functions\gender\obj\Debug\netcoreapp3.1\gender.dll
+C:\Users\opilane\source\repos\Week7Functions\gender\obj\Debug\netcoreapp3.1\gender.pdb
+C:\Users\opilane\source\repos\Week7Functions\gender\obj\Debug\netcoreapp3.1\gender.genruntimeconfig.cache
